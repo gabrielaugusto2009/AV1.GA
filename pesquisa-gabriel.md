@@ -11,6 +11,7 @@ Por ser distribuído, o Git permite que cada desenvolvedor tenha uma cópia comp
 ![image](https://github.com/gabrielaugusto2009/AV1.GA/assets/164562562/990ba78a-8e61-45d5-88a9-d631364675d5)
 
 
+
 ## Pra que serve ?
 
 
